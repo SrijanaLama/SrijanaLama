@@ -13,7 +13,7 @@
 
  📝 I regularly write articles on [https://medium.com/@srijanalama94](https://medium.com/@srijanalama94)
 
- 💬 Ask me about **Java | JavaScript | MicroServices | REST API | SQL | Spring | React**
+ 💬 Ask me about **Java | JavaScript | React | Spring | MicroServices | REST API | SQL  **
 
  📫 How to reach me **https://www.linkedin.com/in/srijanalama/**
 
